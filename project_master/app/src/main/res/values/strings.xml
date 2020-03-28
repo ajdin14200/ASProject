@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">project_master</string>
+    <string name="api_key">AIzaSyAf2dIINRl2V-UgerrcRf6ao103D2EetbI</string>
+    <string name="addcheckpoint">add checkpoint</string>
+    <string name="startcheckpoint">Start</string>
+    <string name="messagecheckpoint">Do you want to remove this checkpoint</string>
+    <string name="removeYes">Yes</string>
+    <string name="removeNo">No</string>
+    <string name="emptyuser">Please choose your user name</string>
+    <string name="createuser">Create your user</string>
+    <string name="username">User name</string>
+    <string name="waitgamemaster">You have to wait the game Master</string>
+    <string name="nocheckpoint">Add at least one checkpoint</string>
+    <string name="endApp">Do you want to Quit ?</string>
+</resources>
